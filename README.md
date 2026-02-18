@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+よろしくおねがいします！
 <!--
 **nemuiex/nemuiex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
